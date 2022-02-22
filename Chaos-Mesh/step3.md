@@ -1,4 +1,4 @@
-<img align="right" src="./assets/chaos-mesh.png" width="100">
+<img align="right" src="./assets/chaos-mesh.png" width="150">
 
 Install Chaos Mesh in container.
 
