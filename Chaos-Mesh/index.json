@@ -45,7 +45,7 @@
     "uilayout": "terminal"
   },
   "backend": {
-    "imageid": "ubuntu:2004"
+    "imageid": "minikube"
   }
   
 

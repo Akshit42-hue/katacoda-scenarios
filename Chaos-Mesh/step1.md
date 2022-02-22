@@ -17,5 +17,5 @@ Check the kubernetes version
 `kubectl version --short`{{execute}}
 
 
-Displays the cluster Info
+Details of the cluster and its health status can be discovered via
 `kubectl cluster-info`{{execute}}
