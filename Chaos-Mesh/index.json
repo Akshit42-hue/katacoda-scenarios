@@ -1,0 +1,47 @@
+{
+  "title": "Chaos-Mesh",
+  "description": "Installing and Uninstalling chaos-mesh using helm in kubernetes",
+  "difficulty": "Beginner",
+  "time": "10 minutes",
+  "details": {
+    "steps": [
+      {
+        "title": "Create Kubernetes Cluster",
+        "text": "step1.md",
+        "code": "clear.sh"
+      },
+      {
+        "title": "Add Chaos Mesh repository",
+        "text": "step2.md",
+        "code": "clear.sh"
+      },
+      {
+        "title": "Install Chaos Mesh in Container",
+        "text": "step3.md",
+        "code": "clear.sh"
+      },
+      {
+        "title": "Uninstall Chaos Mesh",
+        "text": "step4.md",
+        "code": "clear.sh"
+      }
+    ],
+    "intro": {
+      "text": "intro.md",
+      "code": "foreground.sh",
+      "courseData": "background.sh",
+      "credits": "[Axit Patel]"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "terminal"
+  },
+  "backend": {
+    "imageid": "ubuntu:2004"
+  }
+  
+
+}
