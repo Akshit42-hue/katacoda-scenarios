@@ -7,28 +7,20 @@
     "steps": [
       {
         "title": "Create Kubernetes Cluster",
-        "courseData": "background.sh",
-        "code": "foreground.sh",
         "text": "step1.md"
        
       },
       {
         "title": "Add Chaos Mesh repository",
-        "text": "step2.md",
-        "courseData": "background.sh",
-        "code": "foreground.sh"
+        "text": "step2.md"
       },
       {
         "title": "Install Chaos Mesh in Container",
-        "text": "step3.md",
-        "courseData": "background.sh",
-        "code": "foreground.sh"
+        "text": "step3.md"
       },
       {
         "title": "Uninstall Chaos Mesh",
-        "text": "step4.md",
-        "courseData": "background.sh",
-        "code": "foreground.sh"
+        "text": "step4.md"
       }
     ],
     "intro": {
