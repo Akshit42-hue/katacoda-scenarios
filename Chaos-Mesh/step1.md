@@ -3,7 +3,7 @@
 For this scenario, you have to build kubernetes cluster using minikube
 
 
-`minikube start --nodes 3 -p multinode`{{execute}}
+`minikube start --nodes 2 -p multinode`{{execute}}
 
 
 For verify the cluster is running
